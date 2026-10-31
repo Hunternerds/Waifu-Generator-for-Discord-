@@ -66,7 +66,7 @@ Adjust the structure above to match your actual project files.
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Hunternerds/Waifu-Generator-for-Discord-
 
 2. Enter the project directory
 
